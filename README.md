@@ -2,7 +2,7 @@
 
 **Senior Software Developer** from Romania with 10+ years of experience building scalable systems and beautiful interfaces.
 
-Cloud architect, DevOps engineer, and visual storyteller -- crafting everything from microservice platforms to native mobile apps, with 50+ projects delivered.
+Cloud architect, DevOps engineer, and visual storyteller -- crafting everything from microservice platforms to native mobile apps.
 
 ---
 
@@ -51,4 +51,4 @@ Cloud architect, DevOps engineer, and visual storyteller -- crafting everything 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucianradu)
 [![500px](https://img.shields.io/badge/500px-0099E5?style=flat&logo=500px&logoColor=white)](https://500px.com/raduthlucian)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:hello@lucianradu.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raduthlucian@gmail.com)
